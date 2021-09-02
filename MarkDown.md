@@ -52,7 +52,7 @@ import time
 
 
 
-![blog_background](images/MarkDown/blog_background.jpg)
+![blog_background](images/MarkDown/blog_background-16305869747801.jpg)
 
 # 텍스트 강조
 
