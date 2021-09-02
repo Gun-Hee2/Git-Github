@@ -50,9 +50,9 @@ import time
 
  \!\[alt text](image.jpg)
 
-<img src="C:/Users/alg75/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/blog_background.jpg" alt="string"  />
 
 
+![blog_background](images/MarkDown/blog_background.jpg)
 
 # 텍스트 강조
 
