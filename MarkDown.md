@@ -48,7 +48,7 @@ import time
 
 자신이 원하는 이미지를 사용할 수 있다.
 
- \!\[alt text](image.jpg)
+ \!\[text](image.jpg의 경로)
 
 
 
@@ -58,7 +58,7 @@ import time
 
 자신이 원하는 텍스트를 강조 할 수 있다.
 
-\**강조 text**, \*기울임 text\*, \~~취소선\~~
+\*\*강조 text\*\*, \_기울임 text\_, \~\~취소선\~\~
 
 **강조 text**
 
